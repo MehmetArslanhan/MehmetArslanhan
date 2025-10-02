@@ -5,7 +5,6 @@
 - 💡 I enjoy building projects with modern web technologies and continuously improving my skills  
 - 🌱 Currently learning: **ASP.NET Core**, **React**, and **Database Management**  
 - 🔭 Interested in **Web Development**, **Software Architecture**, and **Problem Solving**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmet-arslanhan-05a42a2a9/)  
 
 ---
 

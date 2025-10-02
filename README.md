@@ -1,7 +1,6 @@
 # Hi 👋, I'm Mehmet Arslanhan  
 
-### 💻 A passionate software developer & lifelong learner  
-
+### 💻 A passionate software developer 
 - 🎓 I recently graduated from **Kayseri University - Computer Programming**  
 - 💡 I enjoy building projects with modern web technologies and continuously improving my skills  
 - 🌱 Currently learning: **ASP.NET Core**, **React**, and **Database Management**  
